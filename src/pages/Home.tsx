@@ -14,7 +14,7 @@ const Home = () => {
         mainText="Se aproxime mais de Jesus. Convidamos você a conhecer o nossa igreja, estamos ansiosos para conhecê-lo também!"
         homeBG={homeBG}
         shine={true}
-        justify="end" // start / center / end
+        justify="end"
         fontSize="3xl"
       />
       <About

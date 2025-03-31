@@ -28,7 +28,7 @@ const Navbar = ({ logo }: LogoProp) => {
         </a>
         <div className="border-0 flex items-center justify-between gap-10">
           <a
-            href="/home"
+            href="/"
             className="text-white font-medium text-xl relative after:content-[''] after:absolute after:left-0 after:-bottom-2 after:w-full after:h-[3px] after:bg-blue-400/100 after:scale-x-0 after:transition-transform after:duration-300 hover:after:scale-x-70 after:origin-left"
             style={{ textShadow: "2px 2px 4px rgba(0, 0, 0, 0.5)" }}
           >
